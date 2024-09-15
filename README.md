@@ -48,5 +48,5 @@ After following the lessons in this repository, you should be able to:
 
 # 🤝 Get Involved
 
-- Join our discussion forum on [Reddit](https://reddit.com/r/neurotech-education) to engage with peers, ask questions, and share your thoughts.
+- Join our discussion forum on [Reddit](https://www.reddit.com/r/NeurotechEducation) to engage with peers, ask questions, and share your thoughts.
 - Contribute to this project by submitting pull requests, reporting issues, or sharing your feedback!
