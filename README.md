@@ -6,26 +6,28 @@ Welcome to the **Neurotech Education Project**! This repository is an open-sourc
 
 Use the links below to navigate through the lessons and sections of this repository:
 
-- [**Neuroscience**]()
-  - [**Introduction to Neuroscience**]()
-  - [**Clinical Neurotechnologies: Brain**]()
-  - [**Clinical Neurotechnologies: Spinal Cord**]()
-  - [**Invasive Brain Machine Interfaces**]()
-  - [**Neuroimaging of the human nervous system**]()
-  - [**Stem Cells and Regenerative Medicine**]()
-  - [**Non-invasive Neuromodulation**]()
+- [**1 - Neuroscience**]()
+  - [**1.1 - Introduction to Neuroscience**]()
+  - [**1.2 - Clinical Neurotechnologies: Brain**]()
+  - [**1.3 - Clinical Neurotechnologies: Spinal Cord**]()
+  - [**1.4 - Invasive Brain Machine Interfaces**]()
+  - [**1.5 - Neuroimaging of the Human Nervous System**]()
+  - [**1.6 - Stem Cells and Regenerative Medicine**]()
+  - [**1.7 - Non-invasive Neuromodulation**]()
 
-- [**Artificial Intelligence**]()
-  - [**Introduction to Artificial Intelligence**]()
-  - [**Supervised Learning**]()
-  - [**Unsupervised Learning**]()
-  - [**Reinforcement Learning**]()
-  - [**Deep Learning**]()
-  - [**Training Neural Networks**]()
+- [**2 - Artificial Intelligence**]()
+  - [**2.1 - Introduction to Artificial Intelligence**]()
+  - [**2.2 - Machine Learning**]()
+  - [**2.3 - Neural Networks**]()
+  - [**2.4 - Supervised Learning**]()
+  - [**2.5 - Unsupervised Learning**]()
+  - [**2.6 - Reinforcement Learning**]()
+  - [**2.7 - Deep Learning**]()
+  - [**2.8 - Training Neural Networks**]()
+  - [**2.9 - Applications of AI in Neuroscience**]()
 
-- [**Applications of AI in Neuroscience**]()
-- [**Real-World Example**]()
-- [**Ethical Considerations**]()
+- [**3 - Ethical Considerations**]()
+- [**4 - Real-World Example**]()
 
 # ✨ Who We Are
 
