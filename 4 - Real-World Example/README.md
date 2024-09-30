@@ -1,0 +1,3 @@
+# Real-World Example
+
+Welcome to the **Real-World Example** section of the **Neurotech Education Project**! In this section, we will explore how **Artificial Intelligence** is being used in **Neuroscience** to improve the lives of patients. We will create an AI model and see how it can be used to diagnose neurological diseases. You will explore the process of collecting data, training a model, and evaluating its performance. Also, you will find out its shortcomings and consider the ethical implications that arise.
