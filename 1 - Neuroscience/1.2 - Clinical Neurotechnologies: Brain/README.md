@@ -1,5 +1,8 @@
 # Clinical Neurotechnologies: Brain
 
+> [!WARNING]
+> This section contains images of brain surgery. If you are sensitive to this type of content, please be cautious before expanding the images.
+
 ## Epilepsy
 
 Epilepsy is a devastating disease that affects approximately 1% of the population, or about 3.4 million people in the US.
@@ -24,7 +27,26 @@ To treat epilepsy surgically, the source of the seizures must be localized. This
 
 **Subdural electrodes** are placed on the surface of the brain, but they require an open craniotomy. This means that a portion of the skull is temporarily removed.
 
+<details>
+
+<summary>Subdural Electrodes on a real patient</summary>
+
+<img src="images/Subdural%20Electrodes.jpg" alt="Subdural Electrodes" width="600"/>
+
+</details>
+
+<br>
+
 **Depth electrodes** are placed inside the brain and can record electrical activity from deeper structures with less noise. Small holes are drilled in the skull and, during surgery, MRI scans are used to guide the placement of the electrodes.
+
+<details>
+
+<summary>Depth Electrodes on a real patient</summary>
+
+<img src="images/Depth%20Electrodes.jpg" alt="Depth Electrodes" width="600"/>
+
+</details>
+
 
 #### Treatment
 
@@ -81,6 +103,8 @@ The latter method is ideal for:
 - Dystonia with severe contractions
 
 Both surgeries have equivalent outcomes, infection rates, and complications. It is up to the patient to decide which method is best for them.
+
+---
 
 ## Research
 
